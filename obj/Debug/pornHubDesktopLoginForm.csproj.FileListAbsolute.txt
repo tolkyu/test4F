@@ -1,0 +1,12 @@
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktopLoginForm.Form1.resources
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktopLoginForm.Properties.Resources.resources
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktopLoginForm.csproj.GenerateResource.cache
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktopLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktopLoginForm.csproj.CopyComplete
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\bin\Debug\pornHubDesktop.exe.config
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\bin\Debug\pornHubDesktop.exe
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\bin\Debug\pornHubDesktop.pdb
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktop.exe
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktop.pdb
+C:\Users\prwdi\source\repos\pornHubDesktopLoginForm\obj\Debug\pornHubDesktopLoginForm.csprojAssemblyReference.cache
